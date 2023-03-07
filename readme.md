@@ -1,4 +1,4 @@
-# Laravel Breeze Without Tailwind
+# Laravel Breeze / Vue Without Tailwind
 
 Laravel Breeze is great but Tailwind should be optional. 
 
